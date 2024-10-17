@@ -1,9 +1,6 @@
 package com.bank.App;
-
 import java.util.Scanner;
-
 import com.bank.dto.Customer;
-
 public class App {
     public static void options(Customer c) {
         Scanner sc = new Scanner(System.in);

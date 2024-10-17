@@ -1,13 +1,9 @@
 package com.bank.App;
-
 import java.util.List;
 import java.util.Scanner;
 import com.bank.DAO.CustomerDAO;
 import com.bank.DAO.CustomerDAOImpl;
 import com.bank.dto.Customer;
-
-
-
 public class Welcome {
 
     public static void main(String[] args) {

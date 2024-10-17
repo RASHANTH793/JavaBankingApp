@@ -1,9 +1,6 @@
 package com.bank.App;
-
 import java.sql.PreparedStatement;
 import java.util.Scanner;
-
-
 import com.bank.DAO.CustomerDAO;
 import com.bank.DAO.CustomerDAOImpl;
 import com.bank.DAO.TransactionDAO;

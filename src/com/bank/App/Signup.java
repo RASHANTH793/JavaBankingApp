@@ -1,10 +1,7 @@
 package com.bank.App;
-
 import java.util.Scanner;
-
 import com.bank.DAO.CustomerDAOImpl;
 import com.bank.dto.Customer;
-
 public class Signup {
     public static void signup() {
         Customer c = new Customer();
